@@ -27,7 +27,7 @@ put some tools about python
 ### 1.进入cmd，在该目录下运行代码`python start.py -D www.51nav.com -n 100`
 ![图片](https://user-images.githubusercontent.com/82155432/199540970-4a22a033-3057-4a8f-821d-ae2ac017ddc0.png)
 ### 2.可以选着模式，选择3，进入C段扫描
-![图片](https://user-images.githubusercontent.com/82155432/199542282-72089df0-1669-4ca7-9783-398f6b1a7efc.png)
+![图片](https://user-images.githubusercontent.com/82155432/199545177-177da314-b116-4528-8e72-657138a6b3f4.png)
 ### 扫描完毕过后，我们在根文件下面会生成一个文件加cache，我们C段扫描结果就在里面。
 ![图片](https://user-images.githubusercontent.com/82155432/199543150-4e4a1f52-17eb-436d-a810-9b76ed73fbb5.png)
 ### 后续收集到的数据全部都会在这个文件夹下面，通过名字就可以找到对应的文件内容。要注意，当你完成子域名扫描的时候，生成的combine_domain才是收集子域名的最终文件

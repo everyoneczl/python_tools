@@ -9,6 +9,7 @@ put some tools about python
 `from fake_useragent import UserAgent`
 `import dns.resolver`
 `import time`
+# 电脑上要准备nmap扫描工具
 # 参数解释
 | 参数名 | 解释 |
 | --- | --- |
